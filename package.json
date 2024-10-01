@@ -1,8 +1,7 @@
 {
   "name": "marchingcontest_score_analyzer",
   "version": "1.0.0",
-  "main": "index.js",
   "repository": "ssh://GitHub/Hietan/marchingcontest_score_analyzer.git",
   "author": "Hietan <hietan622@gmail.com>",
-  "license": "Apache 2.0"
+  "license": "Apache License Version 2.0"
 }
