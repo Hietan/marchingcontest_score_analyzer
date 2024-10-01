@@ -14,5 +14,11 @@
 			], 
 			"js": ["src/content.js"]
 		}
-	]
+	],
+	"web_accessible_resources": [
+  {
+    "resources": ["src/results.json"],
+    "matches": ["<all_urls>"]
+  }
+]
 }
