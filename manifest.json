@@ -1,0 +1,18 @@
+{
+	"manifest_version": 3,
+	"name": "Marching Contest Score Analyzer",
+	"version": "1.0",
+	"description": "マーチングコンテスト全国大会出場校の歴代全国大会記録を表示します",
+	"permissions": [
+		"activeTab"
+	],
+	"content_scripts": [
+		{
+			"matches": [
+				"https://www.ajba.or.jp/00ajba/03_marching/marcon37junior.htm",
+				"https://www.ajba.or.jp/00ajba/03_marching/marcon37koukou.htm"
+			], 
+			"js": ["content.js"]
+		}
+	]
+}
