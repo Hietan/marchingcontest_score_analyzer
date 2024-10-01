@@ -12,7 +12,7 @@
 				"https://www.ajba.or.jp/00ajba/03_marching/marcon37junior.htm",
 				"https://www.ajba.or.jp/00ajba/03_marching/marcon37koukou.htm"
 			], 
-			"js": ["content.js"]
+			"js": ["src/content.js"]
 		}
 	]
 }
